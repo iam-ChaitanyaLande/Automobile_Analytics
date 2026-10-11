@@ -1,0 +1,191 @@
+material_id,material_name,vertical,criticality,supplier_name,supplier_region,supplier_grade,unit_cost_inr,base_lead_time_days,incoming_quality_score,moq,safety_stock_days
+MAT-1000,CR Steel Sheet,Body & Structural,High,POSCO Import,South Korea,A,772.99,21,100.0,100,7
+MAT-1001,HR Steel Sheet,Body & Structural,High,POSCO Import,South Korea,A,130.53,27,100.0,500,7
+MAT-1002,Galvanized Steel,Body & Structural,High,Nippon Steel Import,Japan,A,129.08,18,95.2,100,10
+MAT-1003,Aluminum Sheet 6xxx,Body & Structural,High,Hindalco,India,A,398.73,21,91.6,200,10
+MAT-1004,Aluminum Extrusion,Body & Structural,High,POSCO Import,South Korea,A,935.41,9,98.3,50,5
+MAT-1005,High-Strength Steel,Body & Structural,High,Hindalco,India,A,899.72,20,100.0,100,5
+MAT-1006,Stamping Die Steel,Body & Structural,High,Tata Steel,India,A,93.89,8,90.2,500,14
+MAT-1007,Zinc Coating Material,Body & Structural,High,POSCO Import,South Korea,A,230.83,23,100.0,500,5
+MAT-1008,Structural Adhesive,Body & Structural,High,Hindalco,India,A,351.19,12,97.6,1000,5
+MAT-1009,Spot Weld Wire,Body & Structural,High,JSW Steel,India,A,471.29,16,83.9,500,10
+MAT-1010,Body Sealant,Body & Structural,High,Tata Steel,India,A,916.22,27,83.2,1000,5
+MAT-1011,Underbody Coating,Body & Structural,High,Tata Steel,India,A,324.41,19,89.2,50,14
+MAT-1012,Anti-Rust Primer,Body & Structural,High,POSCO Import,South Korea,A,223.78,13,80.0,200,7
+MAT-1013,Roof Panel Steel,Body & Structural,High,Tata Steel,India,A,698.87,9,84.1,50,7
+MAT-1014,Door Panel Aluminum,Body & Structural,High,Novelis India,India,B,885.88,15,77.6,1000,7
+MAT-1015,Fender Steel Sheet,Body & Structural,High,Hindalco,India,A,634.68,9,94.1,50,7
+MAT-1016,Bumper Reinforcement Bar,Body & Structural,High,Novelis India,India,B,925.39,9,87.7,200,3
+MAT-1017,Pillar Steel Tube,Body & Structural,High,POSCO Import,South Korea,A,451.96,16,100.0,500,14
+MAT-1018,Floor Pan Steel,Body & Structural,High,SAIL,India,B,107.34,13,100.0,500,14
+MAT-1019,Cross Member Steel,Body & Structural,High,POSCO Import,South Korea,A,605.84,21,86.8,200,14
+MAT-1020,Rocker Panel Steel,Body & Structural,High,Hindalco,India,A,900.28,13,88.5,100,5
+MAT-1021,Hood Aluminum Sheet,Body & Structural,High,Novelis India,India,B,337.2,27,80.8,500,10
+MAT-1022,Trunk Lid Steel,Body & Structural,High,Hindalco,India,A,242.32,17,88.8,50,3
+MAT-1023,Wheel Arch Liner,Body & Structural,High,Tata Steel,India,A,278.3,26,92.1,1000,3
+MAT-1024,Splash Guard Material,Body & Structural,High,SAIL,India,B,86.05,14,74.3,50,7
+MAT-1025,Paint Primer Coat,Body & Structural,High,JSW Steel,India,A,373.73,21,100.0,200,3
+MAT-1026,Base Coat Paint,Body & Structural,High,Hindalco,India,A,396.36,23,88.2,100,7
+MAT-1027,Clear Coat Paint,Body & Structural,High,Tata Steel,India,A,208.84,23,88.4,200,3
+MAT-1028,E-Coat Material,Body & Structural,High,JSW Steel,India,A,517.33,11,100.0,100,14
+MAT-1029,Body Filler Putty,Body & Structural,High,Hindalco,India,A,469.57,12,83.6,500,7
+MAT-1030,Engine Block Casting,Powertrain,Critical,Bosch India,India,A,768.99,19,100.0,200,3
+MAT-1031,Cylinder Head Casting,Powertrain,Critical,Bharat Forge,India,A,979.69,19,83.8,1000,7
+MAT-1032,Crankshaft Forging,Powertrain,Critical,Denso India,India,A,993.57,17,95.1,200,10
+MAT-1033,Camshaft Forging,Powertrain,Critical,Sona BLW,India,A,587.3,14,92.1,100,3
+MAT-1034,Piston Assembly,Powertrain,Critical,Bosch India,India,A,1034.06,38,96.6,100,7
+MAT-1035,Connecting Rod,Powertrain,Critical,Sona BLW,India,A,1888.76,39,83.5,50,10
+MAT-1036,Timing Chain Assembly,Powertrain,Critical,Denso India,India,A,819.02,14,97.1,50,3
+MAT-1037,Turbocharger Unit,Powertrain,Critical,Bosch India,India,A,1996.96,29,100.0,200,10
+MAT-1038,Exhaust Manifold,Powertrain,Critical,NGK India,Japan,A,2210.07,37,100.0,200,3
+MAT-1039,Catalytic Converter,Powertrain,Critical,Bosch India,India,A,2729.42,31,100.0,100,5
+MAT-1040,Transmission Housing,Powertrain,Critical,NGK India,Japan,A,1321.78,42,100.0,50,14
+MAT-1041,Gear Set Assembly,Powertrain,Critical,Denso India,India,A,1102.14,21,87.4,200,3
+MAT-1042,Clutch Plate Assembly,Powertrain,Critical,Bharat Forge,India,A,1574.01,40,84.0,1000,7
+MAT-1043,Flywheel Assembly,Powertrain,Critical,NGK India,Japan,A,2548.34,40,88.8,100,14
+MAT-1044,CV Joint Assembly,Powertrain,Critical,NGK India,Japan,A,1848.88,28,83.7,1000,7
+MAT-1045,Drive Shaft,Powertrain,Critical,Denso India,India,A,185.17,30,94.7,50,10
+MAT-1046,Differential Assembly,Powertrain,Critical,Denso India,India,A,1379.45,27,93.2,50,14
+MAT-1047,Oil Pump Assembly,Powertrain,Critical,Aisin India,Japan,A,1267.53,34,100.0,200,10
+MAT-1048,Water Pump Assembly,Powertrain,Critical,Bharat Forge,India,A,321.93,42,100.0,200,5
+MAT-1049,Fuel Injector Set,Powertrain,Critical,Bharat Forge,India,A,1177.77,35,92.3,100,7
+MAT-1050,Throttle Body,Powertrain,Critical,NGK India,Japan,A,380.43,28,100.0,50,3
+MAT-1051,Intake Manifold,Powertrain,Critical,Bharat Forge,India,A,2002.66,29,95.4,1000,5
+MAT-1052,Oil Filter Housing,Powertrain,Critical,Sona BLW,India,A,1245.01,31,99.1,1000,10
+MAT-1053,Engine Mount Bracket,Powertrain,Critical,Bharat Forge,India,A,310.12,27,100.0,500,7
+MAT-1054,Exhaust Pipe Assembly,Powertrain,Critical,Sona BLW,India,A,194.01,15,96.3,200,3
+MAT-1055,Muffler Assembly,Powertrain,Critical,Mahle India,India,B,1574.29,42,78.0,100,5
+MAT-1056,O2 Sensor,Powertrain,Critical,NGK India,Japan,A,790.67,23,91.2,500,14
+MAT-1057,Knock Sensor,Powertrain,Critical,Bharat Forge,India,A,2338.69,41,100.0,500,10
+MAT-1058,Coolant Thermostat,Powertrain,Critical,Aisin India,Japan,A,1345.47,19,95.4,200,10
+MAT-1059,Radiator Assembly,Powertrain,Critical,Aisin India,Japan,A,2718.36,23,89.8,200,3
+MAT-1060,Intercooler Unit,Powertrain,Critical,Sona BLW,India,A,1281.84,39,88.8,100,5
+MAT-1061,EGR Valve Assembly,Powertrain,Critical,Bharat Forge,India,A,1305.5,43,100.0,50,14
+MAT-1062,Fuel Rail Assembly,Powertrain,Critical,Aisin India,Japan,A,1830.57,42,98.0,1000,7
+MAT-1063,Engine Gasket Kit,Powertrain,Critical,Denso India,India,A,1636.98,32,100.0,1000,3
+MAT-1064,Valve Spring Set,Powertrain,Critical,Aisin India,Japan,A,431.07,18,92.8,500,14
+MAT-1065,Dashboard Module,Interior,Medium,Minda Industries,India,B,25.9,14,80.0,1000,10
+MAT-1066,Instrument Cluster Housing,Interior,Medium,Motherson Sumi,India,A,310.07,9,100.0,1000,10
+MAT-1067,Steering Wheel Assembly,Interior,Medium,Samvardhana Motherson,India,A,180.67,14,83.6,100,7
+MAT-1068,Seat Foam Padding,Interior,Medium,Samvardhana Motherson,India,A,333.16,12,87.1,100,3
+MAT-1069,Seat Cover Fabric,Interior,Medium,Minda Industries,India,B,386.97,15,88.5,500,10
+MAT-1070,Seat Cover Leather,Interior,Medium,Samvardhana Motherson,India,A,379.09,5,100.0,1000,10
+MAT-1071,Door Trim Panel,Interior,Medium,Valeo India,India,B,535.97,12,69.2,100,7
+MAT-1072,Center Console Assembly,Interior,Medium,Minda Industries,India,B,188.97,16,87.0,50,5
+MAT-1073,Gear Knob Assembly,Interior,Medium,Lumax Industries,India,B,551.5,14,79.8,100,7
+MAT-1074,Headliner Fabric,Interior,Medium,Motherson Sumi,India,A,329.98,14,100.0,1000,10
+MAT-1075,Carpet Floor Mat,Interior,Medium,Motherson Sumi,India,A,525.21,13,100.0,500,5
+MAT-1076,Sun Visor Assembly,Interior,Medium,Lumax Industries,India,B,491.64,20,97.7,500,5
+MAT-1077,Rearview Mirror Housing,Interior,Medium,Motherson Sumi,India,A,508.02,12,99.2,1000,10
+MAT-1078,Glove Box Assembly,Interior,Medium,Motherson Sumi,India,A,446.7,11,91.7,50,3
+MAT-1079,Air Vent Module,Interior,Medium,Pricol Ltd,India,C,330.32,13,75.8,1000,7
+MAT-1080,Cup Holder Insert,Interior,Medium,Valeo India,India,B,262.14,16,87.9,500,7
+MAT-1081,Arm Rest Assembly,Interior,Medium,Samvardhana Motherson,India,A,416.22,9,94.0,1000,7
+MAT-1082,Seat Belt Webbing,Interior,Medium,Minda Industries,India,B,223.7,15,82.1,1000,5
+MAT-1083,Seat Belt Buckle,Interior,Medium,Samvardhana Motherson,India,A,51.55,19,97.0,100,14
+MAT-1084,Airbag Module,Interior,Medium,Valeo India,India,B,578.69,15,91.9,50,14
+MAT-1085,Pedal Assembly,Interior,Medium,Pricol Ltd,India,C,68.41,17,77.7,100,3
+MAT-1086,Handbrake Lever,Interior,Medium,Samvardhana Motherson,India,A,581.35,6,100.0,50,14
+MAT-1087,Door Handle Inner,Interior,Medium,Minda Industries,India,B,237.39,16,81.0,200,14
+MAT-1088,Window Regulator,Interior,Medium,Minda Industries,India,B,369.59,15,78.5,200,14
+MAT-1089,Door Lock Actuator,Interior,Medium,Lumax Industries,India,B,272.3,18,75.4,100,10
+MAT-1090,Trunk Carpet Liner,Interior,Medium,Minda Industries,India,B,502.17,19,95.0,1000,10
+MAT-1091,Pillar Trim Cover,Interior,Medium,Pricol Ltd,India,C,269.14,16,79.9,50,3
+MAT-1092,Boot Board Assembly,Interior,Medium,Motherson Sumi,India,A,156.98,10,79.8,1000,7
+MAT-1093,Acoustic Insulation Mat,Interior,Medium,Minda Industries,India,B,61.86,7,89.6,200,10
+MAT-1094,NVH Damping Sheet,Interior,Medium,Motherson Sumi,India,A,347.17,13,89.4,50,14
+MAT-1095,Main Wiring Harness,Electrical & Electronics,Critical,Delphi India,USA,B,1062.16,25,77.1,50,7
+MAT-1096,Engine Bay Harness,Electrical & Electronics,Critical,Motherson Sumi,India,A,1726.7,25,94.1,500,14
+MAT-1097,Body Control Module,Electrical & Electronics,Critical,Fiem Industries,India,C,326.18,45,81.6,100,5
+MAT-1098,Engine Control Unit (ECU),Electrical & Electronics,Critical,Motherson Sumi,India,A,1060.99,37,84.4,200,3
+MAT-1099,Transmission Control Module,Electrical & Electronics,Critical,Bosch India,India,A,574.41,29,88.8,1000,10
+MAT-1100,ABS Control Unit,Electrical & Electronics,Critical,Fiem Industries,India,C,313.65,55,87.2,50,5
+MAT-1101,Airbag Control Module,Electrical & Electronics,Critical,Denso India,India,A,1680.59,59,81.2,200,14
+MAT-1102,Infotainment Head Unit,Electrical & Electronics,Critical,Yazaki India,Japan,B,71.8,42,83.9,50,7
+MAT-1103,Instrument Cluster Display,Electrical & Electronics,Critical,Yazaki India,Japan,B,1355.5,34,97.0,200,7
+MAT-1104,Rear Camera Module,Electrical & Electronics,Critical,Bosch India,India,A,1513.03,43,97.7,1000,7
+MAT-1105,Front Radar Sensor,Electrical & Electronics,Critical,Yazaki India,Japan,B,1063.64,46,100.0,100,5
+MAT-1106,Ultrasonic Parking Sensor Set,Electrical & Electronics,Critical,Continental India,India,B,464.04,23,79.5,1000,14
+MAT-1107,Headlamp LED Module,Electrical & Electronics,Critical,Motherson Sumi,India,A,430.84,58,88.8,100,10
+MAT-1108,Tail Lamp Assembly,Electrical & Electronics,Critical,Hyundai Mobis,South Korea,A,226.56,35,67.2,200,7
+MAT-1109,Fog Lamp Assembly,Electrical & Electronics,Critical,Denso India,India,A,1537.62,53,92.9,1000,7
+MAT-1110,Turn Signal Module,Electrical & Electronics,Critical,Bosch India,India,A,1072.17,56,100.0,100,7
+MAT-1111,Horn Assembly,Electrical & Electronics,Critical,Continental India,India,B,1628.09,43,81.7,100,5
+MAT-1112,Starter Motor,Electrical & Electronics,Critical,Denso India,India,A,721.23,36,97.0,50,3
+MAT-1113,Alternator Assembly,Electrical & Electronics,Critical,Fiem Industries,India,C,1641.09,39,70.1,100,7
+MAT-1114,Battery (12V),Electrical & Electronics,Critical,Bosch India,India,A,1710.4,13,100.0,50,10
+MAT-1115,Fuse Box Assembly,Electrical & Electronics,Critical,Motherson Sumi,India,A,839.97,43,93.8,1000,5
+MAT-1116,Relay Module Set,Electrical & Electronics,Critical,Yazaki India,Japan,B,396.21,52,83.8,50,7
+MAT-1117,Power Window Motor,Electrical & Electronics,Critical,Delphi India,USA,B,1263.36,13,84.2,500,3
+MAT-1118,Wiper Motor Assembly,Electrical & Electronics,Critical,Continental India,India,B,1576.91,36,76.9,100,7
+MAT-1119,Blower Motor HVAC,Electrical & Electronics,Critical,Continental India,India,B,1483.68,27,88.8,500,5
+MAT-1120,Compressor Clutch,Electrical & Electronics,Critical,Yazaki India,Japan,B,81.45,15,83.9,100,5
+MAT-1121,GPS Antenna Module,Electrical & Electronics,Critical,Bosch India,India,A,918.57,54,86.7,200,3
+MAT-1122,Bluetooth Module,Electrical & Electronics,Critical,Denso India,India,A,1443.95,31,100.0,50,7
+MAT-1123,USB Port Assembly,Electrical & Electronics,Critical,Yazaki India,Japan,B,1775.61,56,79.8,100,10
+MAT-1124,Keyless Entry Module,Electrical & Electronics,Critical,Hyundai Mobis,South Korea,A,968.0,11,100.0,200,10
+MAT-1125,Immobilizer Unit,Electrical & Electronics,Critical,Yazaki India,Japan,B,1564.31,47,76.9,200,7
+MAT-1126,TPMS Sensor Set,Electrical & Electronics,Critical,Hyundai Mobis,South Korea,A,211.14,46,97.1,50,5
+MAT-1127,Rain Sensor Module,Electrical & Electronics,Critical,Delphi India,USA,B,237.58,26,74.5,1000,10
+MAT-1128,Light Sensor Module,Electrical & Electronics,Critical,Bosch India,India,A,1230.41,12,92.6,500,5
+MAT-1129,Antenna Assembly,Electrical & Electronics,Critical,Hyundai Mobis,South Korea,A,1348.16,58,100.0,500,7
+MAT-1130,Front Coil Spring Set,Suspension & Chassis,High,Endurance Tech,India,A,262.7,12,96.8,200,7
+MAT-1131,Rear Coil Spring Set,Suspension & Chassis,High,Gabriel India,India,B,300.89,7,91.5,1000,14
+MAT-1132,Front Shock Absorber,Suspension & Chassis,High,Schaeffler India,Germany,A,329.59,22,91.9,50,7
+MAT-1133,Rear Shock Absorber,Suspension & Chassis,High,Sundaram Clayton,India,B,44.96,11,81.5,500,5
+MAT-1134,Front Stabilizer Bar,Suspension & Chassis,High,Rane Holdings,India,B,824.97,10,99.2,50,5
+MAT-1135,Rear Stabilizer Bar,Suspension & Chassis,High,SKF India,Sweden,A,468.73,19,94.4,500,14
+MAT-1136,Lower Control Arm,Suspension & Chassis,High,Schaeffler India,Germany,A,823.76,10,97.2,50,10
+MAT-1137,Upper Control Arm,Suspension & Chassis,High,SKF India,Sweden,A,609.93,20,73.1,1000,7
+MAT-1138,Steering Rack Assembly,Suspension & Chassis,High,SKF India,Sweden,A,424.53,17,81.2,100,14
+MAT-1139,Tie Rod End Set,Suspension & Chassis,High,SKF India,Sweden,A,480.12,8,100.0,1000,5
+MAT-1140,Ball Joint Set,Suspension & Chassis,High,Rane Holdings,India,B,238.81,11,100.0,200,3
+MAT-1141,Front Wheel Hub Bearing,Suspension & Chassis,High,Gabriel India,India,B,711.11,18,80.0,100,14
+MAT-1142,Rear Wheel Hub Bearing,Suspension & Chassis,High,Sundaram Clayton,India,B,799.44,18,90.1,500,14
+MAT-1143,Brake Disc Front,Suspension & Chassis,High,Sundaram Clayton,India,B,682.12,20,83.3,500,7
+MAT-1144,Brake Disc Rear,Suspension & Chassis,High,Gabriel India,India,B,182.85,20,67.1,1000,5
+MAT-1145,Brake Pad Set Front,Suspension & Chassis,High,ZF India,India,A,590.05,14,97.9,200,14
+MAT-1146,Brake Pad Set Rear,Suspension & Chassis,High,Schaeffler India,Germany,A,472.62,21,80.1,100,14
+MAT-1147,Brake Caliper Front,Suspension & Chassis,High,Sundaram Clayton,India,B,475.14,12,92.8,200,7
+MAT-1148,Brake Caliper Rear,Suspension & Chassis,High,Endurance Tech,India,A,144.2,21,94.9,200,10
+MAT-1149,Brake Master Cylinder,Suspension & Chassis,High,Gabriel India,India,B,154.37,7,93.2,1000,14
+MAT-1150,ABS Wheel Speed Sensor,Suspension & Chassis,High,Sundaram Clayton,India,B,640.04,10,96.9,200,5
+MAT-1151,Subframe Assembly,Suspension & Chassis,High,ZF India,India,A,114.39,19,98.2,500,14
+MAT-1152,Steering Column Assembly,Suspension & Chassis,High,Rane Holdings,India,B,355.78,14,81.4,500,14
+MAT-1153,Power Steering Pump,Suspension & Chassis,High,Endurance Tech,India,A,40.01,10,90.6,500,5
+MAT-1154,Steering Fluid Reservoir,Suspension & Chassis,High,Sundaram Clayton,India,B,521.2,17,83.9,100,7
+MAT-1155,Chassis Cross Brace,Suspension & Chassis,High,Rane Holdings,India,B,777.72,14,87.4,100,3
+MAT-1156,Engine Cradle,Suspension & Chassis,High,ZF India,India,A,44.85,17,95.9,500,14
+MAT-1157,Leaf Spring Assembly,Suspension & Chassis,High,Gabriel India,India,B,609.94,16,90.6,50,10
+MAT-1158,Torsion Bar,Suspension & Chassis,High,SKF India,Sweden,A,527.51,20,87.1,1000,5
+MAT-1159,Strut Mount Bearing,Suspension & Chassis,High,Schaeffler India,Germany,A,182.78,7,94.0,200,14
+MAT-1160,Front Tyre 205/55R16,Tyres & Rubber,Medium,Apollo Tyres,India,A,359.8,14,86.9,50,5
+MAT-1161,Rear Tyre 205/55R16,Tyres & Rubber,Medium,CEAT Tyres,India,B,443.79,11,71.6,100,7
+MAT-1162,Front Tyre 225/45R17,Tyres & Rubber,Medium,MRF Ltd,India,A,441.67,15,98.8,500,14
+MAT-1163,Rear Tyre 225/45R17,Tyres & Rubber,Medium,Apollo Tyres,India,A,180.33,15,82.8,100,10
+MAT-1164,Spare Tyre Assembly,Tyres & Rubber,Medium,MRF Ltd,India,A,321.86,11,94.7,500,10
+MAT-1165,Alloy Wheel 16inch,Tyres & Rubber,Medium,Wheels India,India,B,96.7,11,88.2,50,14
+MAT-1166,Alloy Wheel 17inch,Tyres & Rubber,Medium,Jamna Auto,India,B,362.48,15,80.3,1000,3
+MAT-1167,Steel Wheel 15inch,Tyres & Rubber,Medium,Wheels India,India,B,187.53,12,93.8,200,5
+MAT-1168,Wheel Nut Set,Tyres & Rubber,Medium,Apollo Tyres,India,A,374.5,6,73.8,100,7
+MAT-1169,Valve Stem Set,Tyres & Rubber,Medium,JK Tyre,India,B,95.51,17,93.5,200,5
+MAT-1170,Door Seal Rubber,Tyres & Rubber,Medium,MRF Ltd,India,A,431.79,6,92.1,500,5
+MAT-1171,Window Seal Rubber,Tyres & Rubber,Medium,Wheels India,India,B,201.75,13,84.2,200,7
+MAT-1172,Trunk Seal Rubber,Tyres & Rubber,Medium,Wheels India,India,B,289.67,13,80.6,50,10
+MAT-1173,Hood Seal Rubber,Tyres & Rubber,Medium,MRF Ltd,India,A,388.5,12,98.9,200,10
+MAT-1174,Engine Mount Rubber,Tyres & Rubber,Medium,JK Tyre,India,B,324.0,9,71.3,100,5
+MAT-1175,Exhaust Hanger Rubber,Tyres & Rubber,Medium,Apollo Tyres,India,A,107.71,7,87.8,1000,7
+MAT-1176,Suspension Bush Set,Tyres & Rubber,Medium,JK Tyre,India,B,312.18,6,74.9,100,7
+MAT-1177,Stabilizer Link Bush,Tyres & Rubber,Medium,JK Tyre,India,B,400.41,9,78.3,50,5
+MAT-1178,Steering Rack Boot,Tyres & Rubber,Medium,Wheels India,India,B,148.4,8,86.1,200,3
+MAT-1179,CV Boot Set,Tyres & Rubber,Medium,MRF Ltd,India,A,20.56,13,87.2,100,14
+MAT-1180,Radiator Hose Upper,Tyres & Rubber,Medium,Apollo Tyres,India,A,131.21,10,87.0,100,5
+MAT-1181,Radiator Hose Lower,Tyres & Rubber,Medium,Wheels India,India,B,90.69,11,99.6,1000,7
+MAT-1182,Heater Hose Set,Tyres & Rubber,Medium,Jamna Auto,India,B,439.72,9,84.7,100,3
+MAT-1183,Fuel Line Hose,Tyres & Rubber,Medium,Wheels India,India,B,316.17,14,95.7,500,14
+MAT-1184,Brake Hose Set,Tyres & Rubber,Medium,MRF Ltd,India,A,75.81,15,100.0,50,14
+MAT-1185,Vacuum Hose Set,Tyres & Rubber,Medium,MRF Ltd,India,A,439.77,14,100.0,1000,10
+MAT-1186,Windshield Wiper Blade Set,Tyres & Rubber,Medium,Jamna Auto,India,B,253.89,6,88.9,200,14
+MAT-1187,Weatherstrip Door Set,Tyres & Rubber,Medium,JK Tyre,India,B,372.36,17,79.0,1000,7
+MAT-1188,Grommet Assortment Kit,Tyres & Rubber,Medium,CEAT Tyres,India,B,177.17,5,90.8,100,14
+MAT-1189,Vibration Damper Pad,Tyres & Rubber,Medium,Apollo Tyres,India,A,136.86,8,100.0,200,7

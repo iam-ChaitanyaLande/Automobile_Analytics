@@ -1,0 +1,81 @@
+{
+  "regression": {
+    "Ridge": {
+      "MAE": 4.651,
+      "RMSE": 5.826,
+      "R2": 0.1732
+    },
+    "Random Forest": {
+      "MAE": 4.763,
+      "RMSE": 5.979,
+      "R2": 0.1292
+    },
+    "Gradient Boosting": {
+      "MAE": 4.8,
+      "RMSE": 6.047,
+      "R2": 0.1094
+    },
+    "XGBoost": {
+      "MAE": 4.79,
+      "RMSE": 6.056,
+      "R2": 0.1068
+    }
+  },
+  "classification": {
+    "Logistic Regression": {
+      "AUC": 0.9991
+    },
+    "Random Forest": {
+      "AUC": 1.0
+    },
+    "XGBoost": {
+      "AUC": 1.0
+    }
+  },
+  "cross_validation": {
+    "mean_MAE": 4.797,
+    "mean_R2": 0.1079
+  },
+  "top_shap_features": [
+    {
+      "feature": "defect_count",
+      "mean_shap": 1.5023850202560425
+    },
+    {
+      "feature": "plant_Ranjangaon Plant",
+      "mean_shap": 0.8092221617698669
+    },
+    {
+      "feature": "shift_Night",
+      "mean_shap": 0.5865539908409119
+    },
+    {
+      "feature": "shift_Morning",
+      "mean_shap": 0.46445852518081665
+    },
+    {
+      "feature": "plant_Sanand Plant",
+      "mean_shap": 0.3660849332809448
+    },
+    {
+      "feature": "downtime_hours",
+      "mean_shap": 0.23077015578746796
+    },
+    {
+      "feature": "delay_risk_score",
+      "mean_shap": 0.19830094277858734
+    },
+    {
+      "feature": "defect_suspension_chassis",
+      "mean_shap": 0.1857360303401947
+    },
+    {
+      "feature": "defect_powertrain",
+      "mean_shap": 0.17951902747154236
+    },
+    {
+      "feature": "defect_tyres_rubber",
+      "mean_shap": 0.17526257038116455
+    }
+  ]
+}
